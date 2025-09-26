@@ -1,3 +1,3 @@
-# Nifty 50 & BankNifty Stock Predictor (v8)
+# Nifty 50 & BankNifty Stock Predictor 
 
 See deploy/app_streamlit.py
