@@ -52,7 +52,7 @@ Copy code
 1. **Clone or Extract Project**  
    - If using GitHub:  
      ```bash
-     git clone https://github.com/yourusername/nifty_banknifty_predictor.git
+     git clone https://github.com/abhishekparmar2005/nifty_banknifty_predictor.git
      cd nifty_banknifty_predictor
      ```
    - If using ZIP:  
